@@ -51,7 +51,7 @@ Machine Learning Models
 
 The Python implementation includes:
 - Linear Regression
-- -idge Regression
+- Ridge Regression
 - K-Nearest Neighbours (KNN)
 - Random Forest Regressor
 - Gradient Boosting Regressor
